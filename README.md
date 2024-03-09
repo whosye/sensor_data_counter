@@ -1,6 +1,7 @@
 # To run this projects, 
 Compile and execute the main.cpp file.
 Input the desired simulation time when prompted.
+I also added already compiled file. 
 
 # Overview: 
 This project simulates the asynchronous transmission of data from multiple sensors to a central receiver using C++.
